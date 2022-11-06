@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "репетитор 1/1.0.0": {
+        "runtime": {
+          "репетитор 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "репетитор 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

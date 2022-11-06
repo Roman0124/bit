@@ -1,0 +1,15 @@
+D:\csharp\репетитор 2\bin\Debug\net6.0\репетитор 2.exe
+D:\csharp\репетитор 2\bin\Debug\net6.0\репетитор 2.deps.json
+D:\csharp\репетитор 2\bin\Debug\net6.0\репетитор 2.runtimeconfig.json
+D:\csharp\репетитор 2\bin\Debug\net6.0\репетитор 2.dll
+D:\csharp\репетитор 2\bin\Debug\net6.0\репетитор 2.pdb
+D:\csharp\репетитор 2\obj\Debug\net6.0\репетитор 2.csproj.AssemblyReference.cache
+D:\csharp\репетитор 2\obj\Debug\net6.0\репетитор 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\репетитор 2\obj\Debug\net6.0\репетитор 2.AssemblyInfoInputs.cache
+D:\csharp\репетитор 2\obj\Debug\net6.0\репетитор 2.AssemblyInfo.cs
+D:\csharp\репетитор 2\obj\Debug\net6.0\репетитор 2.csproj.CoreCompileInputs.cache
+D:\csharp\репетитор 2\obj\Debug\net6.0\репетитор 2.dll
+D:\csharp\репетитор 2\obj\Debug\net6.0\refint\репетитор 2.dll
+D:\csharp\репетитор 2\obj\Debug\net6.0\репетитор 2.pdb
+D:\csharp\репетитор 2\obj\Debug\net6.0\репетитор 2.genruntimeconfig.cache
+D:\csharp\репетитор 2\obj\Debug\net6.0\ref\репетитор 2.dll
