@@ -1,0 +1,15 @@
+D:\csharp\задаяа 23\bin\Debug\net6.0\задаяа 23.exe
+D:\csharp\задаяа 23\bin\Debug\net6.0\задаяа 23.deps.json
+D:\csharp\задаяа 23\bin\Debug\net6.0\задаяа 23.runtimeconfig.json
+D:\csharp\задаяа 23\bin\Debug\net6.0\задаяа 23.dll
+D:\csharp\задаяа 23\bin\Debug\net6.0\задаяа 23.pdb
+D:\csharp\задаяа 23\obj\Debug\net6.0\задаяа 23.csproj.AssemblyReference.cache
+D:\csharp\задаяа 23\obj\Debug\net6.0\задаяа 23.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\задаяа 23\obj\Debug\net6.0\задаяа 23.AssemblyInfoInputs.cache
+D:\csharp\задаяа 23\obj\Debug\net6.0\задаяа 23.AssemblyInfo.cs
+D:\csharp\задаяа 23\obj\Debug\net6.0\задаяа 23.csproj.CoreCompileInputs.cache
+D:\csharp\задаяа 23\obj\Debug\net6.0\задаяа 23.dll
+D:\csharp\задаяа 23\obj\Debug\net6.0\refint\задаяа 23.dll
+D:\csharp\задаяа 23\obj\Debug\net6.0\задаяа 23.pdb
+D:\csharp\задаяа 23\obj\Debug\net6.0\задаяа 23.genruntimeconfig.cache
+D:\csharp\задаяа 23\obj\Debug\net6.0\ref\задаяа 23.dll
