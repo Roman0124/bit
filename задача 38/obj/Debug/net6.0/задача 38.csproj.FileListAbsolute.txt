@@ -1,0 +1,15 @@
+D:\csharp\задача 38\bin\Debug\net6.0\задача 38.exe
+D:\csharp\задача 38\bin\Debug\net6.0\задача 38.deps.json
+D:\csharp\задача 38\bin\Debug\net6.0\задача 38.runtimeconfig.json
+D:\csharp\задача 38\bin\Debug\net6.0\задача 38.dll
+D:\csharp\задача 38\bin\Debug\net6.0\задача 38.pdb
+D:\csharp\задача 38\obj\Debug\net6.0\задача 38.csproj.AssemblyReference.cache
+D:\csharp\задача 38\obj\Debug\net6.0\задача 38.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\задача 38\obj\Debug\net6.0\задача 38.AssemblyInfoInputs.cache
+D:\csharp\задача 38\obj\Debug\net6.0\задача 38.AssemblyInfo.cs
+D:\csharp\задача 38\obj\Debug\net6.0\задача 38.csproj.CoreCompileInputs.cache
+D:\csharp\задача 38\obj\Debug\net6.0\задача 38.dll
+D:\csharp\задача 38\obj\Debug\net6.0\refint\задача 38.dll
+D:\csharp\задача 38\obj\Debug\net6.0\задача 38.pdb
+D:\csharp\задача 38\obj\Debug\net6.0\задача 38.genruntimeconfig.cache
+D:\csharp\задача 38\obj\Debug\net6.0\ref\задача 38.dll
