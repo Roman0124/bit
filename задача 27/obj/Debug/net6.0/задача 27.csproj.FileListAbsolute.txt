@@ -1,0 +1,15 @@
+D:\csharp\задача 27\bin\Debug\net6.0\задача 27.exe
+D:\csharp\задача 27\bin\Debug\net6.0\задача 27.deps.json
+D:\csharp\задача 27\bin\Debug\net6.0\задача 27.runtimeconfig.json
+D:\csharp\задача 27\bin\Debug\net6.0\задача 27.dll
+D:\csharp\задача 27\bin\Debug\net6.0\задача 27.pdb
+D:\csharp\задача 27\obj\Debug\net6.0\задача 27.csproj.AssemblyReference.cache
+D:\csharp\задача 27\obj\Debug\net6.0\задача 27.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\задача 27\obj\Debug\net6.0\задача 27.AssemblyInfoInputs.cache
+D:\csharp\задача 27\obj\Debug\net6.0\задача 27.AssemblyInfo.cs
+D:\csharp\задача 27\obj\Debug\net6.0\задача 27.csproj.CoreCompileInputs.cache
+D:\csharp\задача 27\obj\Debug\net6.0\задача 27.dll
+D:\csharp\задача 27\obj\Debug\net6.0\refint\задача 27.dll
+D:\csharp\задача 27\obj\Debug\net6.0\задача 27.pdb
+D:\csharp\задача 27\obj\Debug\net6.0\задача 27.genruntimeconfig.cache
+D:\csharp\задача 27\obj\Debug\net6.0\ref\задача 27.dll
